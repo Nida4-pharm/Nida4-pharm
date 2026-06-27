@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there!
+I'm Nida, a licensed Hospital Pharmacist with 1 year of experience in hospital and clinical pharmacy.
 
+My expertise includes prescription review, medication dispensing, patient counseling, medication safety, and ensuring compliance with hospital protocols.
+
+Conducted research on the anti-inflammatory activity of avocado pulp, gained hands-on experience in hospital pharmacy operations, patient counseling, and medication management, and enhanced knowledge in pharmacovigilance, drug safety, clinical research, and healthcare documentation through professional training and workshops. 
 <!--
 **Nida4-pharm/Nida4-pharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
